@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Awesome Hugo blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Awesome Hugo blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 30 Aug 2024 21:39:44 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blockchain: The Fatal Flaw of Bitcoin</title>
+      <link>http://localhost:1313/posts/blockchains/</link>
+      <pubDate>Fri, 30 Aug 2024 21:39:44 +0800</pubDate>
+      
+      <guid>http://localhost:1313/posts/blockchains/</guid>
+      
+      <description>Bitcoin&amp;rsquo;s Insurmountable Scalability Crisis Bitcoin, once hailed as the future of finance, is fundamentally crippled by its own foundation: the blockchain. This distributed ledger technology, while revolutionary in concept, has proven to be a technological dead-end for creating a viable, global cryptocurrency system. The hard truth is that blockchain, in its current form, is utterly incapable of supporting the transaction volumes required for global mainstream adoption.
+The Blockchain: A Technological Quagmire The blockchain&amp;rsquo;s design is not just limiting; it&amp;rsquo;s fundamentally flawed for high-volume transaction processing:</description>
+      
+    </item>
+    
+  </channel>
+</rss>
