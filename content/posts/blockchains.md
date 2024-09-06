@@ -63,4 +63,6 @@ The harsh reality is that blockchain technology, as it stands, is fundamentally 
 
 The future of digital currencies lies not in tweaking the broken blockchain model, but in completely reimagining decentralized systems. The blockchain experiment has provided valuable lessons, but it's time to acknowledge its failures and move on. True innovation in digital currency will come from abandoning the blockchain dogma and embracing entirely new paradigms in distributed systems and cryptographic technologies.
 
-The sooner the cryptocurrency community accepts the fundamental limitations of blockchain, the sooner we can begin developing truly scalable, efficient, and practical digital currency systems. The blockchain revolution is over – it's time for the real innovation to begin.
+The sooner the cryptocurrency community accepts the fundamental limitations of blockchain, the sooner we can begin developing truly scalable, efficient, and practical digital currency systems. 
+
+The blockchain revolution is over – it's time for the real innovation to begin.
