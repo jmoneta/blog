@@ -1,7 +1,7 @@
 +++
 title = 'Bitcoin Blockchain: The Colossal Labyrinth of Digital Limitations'
 author = 'Juno Moneta'
-date = 2024-09-07T01:11:10+00:00
+date = 2024-09-06T01:11:10+00:00
 draft = false
 toc = true
 tocOpen = true
