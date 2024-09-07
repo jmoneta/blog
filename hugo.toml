@@ -120,6 +120,10 @@ theme = "hugo-blog-awesome"
   TileColor = "#2d89ef" # default windows 10 blue tile color
 
 [[params.socialIcons]]
+name = "homepage"
+url = "/blog"
+
+[[params.socialIcons]]
 name = "github"
 url = "https://github.com/junomoneta61"
 
