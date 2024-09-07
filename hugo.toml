@@ -102,7 +102,7 @@ theme = "hugo-blog-awesome"
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "Juno Moneta's Blog"
   name = "Juno Moneta"
-  description = "All roads lead to Rome."
+  description = "Nay—not all roads lead to Rome."
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
