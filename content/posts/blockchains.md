@@ -51,19 +51,25 @@ Let's break down why Bitcoin's choices in this trilemma have led to a system tha
 
 ## Block Size and Time: The Tortoise of the Digital Age
 
-Bitcoin's blockchain is designed with a block size limit of approximately 1 MB and a block time of about 10 minutes [3]. For the non-techies out there, this means that every 10 minutes, a new block of transactions (up to 1 MB in size) is added to the chain.
+Imagine a race where one runner takes a leisurely 10-minute stroll for each step, while the other zips around the track at lightning speed. Welcome to the world of Bitcoin's blockchain versus traditional payment systems.
 
-Now, you might be thinking, "10 minutes doesn't sound so bad." But let me put this in perspective. Visa, our centralized card-swiping overlord, processes around 1,700 transactions per second [4]. Bitcoin? It maxes out at about 7 transactions per second. That's right, in the time it takes Bitcoin to process a single transaction, Visa has already handled enough to buy coffee for a small country.
+Bitcoin's blockchain is designed with a block size limit of approximately 1 MB and a block time of about 10 minutes [3]. For the non-techies out there, this means that every 10 minutes, a new block of transactions (up to 1 MB in size) is added to the chain. It's like watching paint dry, if the paint were made of digital transactions and disappointment.
 
-This limitation isn't just a minor inconvenience; it's a fundamental flaw that turns Bitcoin from a "peer-to-peer electronic cash system" into a "peer-to-peer electronic molasses system." Imagine trying to buy your morning coffee with Bitcoin. By the time your transaction is confirmed, your barista has grown a beard, retired, and written a memoir about the customer who never got their latte.
+Now, you might be thinking, "10 minutes doesn't sound so bad." Oh, you sweet summer child. Let me put this in perspective. Visa, our centralized card-swiping overlord, processes around 1,700 transactions per second [4]. Bitcoin? It maxes out at about 7 transactions per second. That's right, while Bitcoin is still tying its digital shoelaces, Visa has already run a marathon, baked a cake, and written a sonnet about its superior transaction speed.
+
+This limitation isn't just a minor inconvenience; it's a fundamental flaw that turns Bitcoin from a "peer-to-peer electronic cash system" into a sluggish digital sloth. Imagine trying to buy your morning coffee with Bitcoin. You'd have better luck waiting for a new Winds of Winter book to come out. By the time your transaction is confirmed, your barista has not only grown a beard but has also retired and written a bestselling memoir titled "The Customer Who Never Got Their Latte: A Bitcoiner's Tale."
 
 ## The Energy Conundrum: Proof-of-Work or Proof-of-Waste?
 
-Now, let's talk about Bitcoin's dirty little secret: its energy consumption. The Proof-of-Work consensus mechanism, while secure, is about as energy-efficient as using a nuclear reactor to charge your phone.
+Now, let's talk about Bitcoin's dirty little secret: its energy consumption. The Proof-of-Work consensus mechanism is Bitcoin's way of saying, "Why solve global warming when we can exacerbate it?" It's about as energy-efficient as using the sun to power a nightlight.
 
-As of 2021, Bitcoin's annual energy consumption was estimated to be around 121.36 terawatt-hours [5]. To put that into perspective, that's more than the entire country of Argentina uses in a year. It's like Bitcoin looked at global warming and said, "Hold my beer."
+As of 2024, Bitcoin's annual energy consumption is estimated to be around 147.29 terawatt-hours [5]. To put that into perspective, that's more than the entire country of Ukraine uses in a year. It's as if Bitcoin decided to one-up Greta Thunberg by showing her what real climate change looks like. At this rate, Bitcoin miners might just be the first to successfully melt the polar ice caps – talk about a dubious achievement!
 
-This energy usage isn't just an environmental concern; it's a scalability nightmare. As the network grows and mining difficulty increases, so does the energy requirement. It's a vicious cycle that makes Bitcoin about as sustainable as a chocolate teapot.
+Picture this: You're at a party, and Bitcoin is that guy who shows up with a personal generator to power his smartphone. While everyone else is sipping eco-friendly cocktails, Bitcoin is chugging fossil fuels like there's no tomorrow (which, at this rate, there might not be).
+
+This energy usage isn't just an environmental concern; it's a scalability nightmare wrapped in an ecological disaster, served with a side of "what were they thinking?" As the network grows and mining difficulty increases, so does the energy requirement. It's a vicious cycle that makes perpetual motion machines look positively achievable by comparison.
+
+In the grand scheme of things, Bitcoin's energy consumption is like trying to solve a Rubik's cube by smashing it with a sledgehammer – sure, you're doing something, but it's probably not the right thing, and you're making a mess in the process.
 
 ## Network Congestion: The Digital Traffic Jam
 
@@ -78,7 +84,9 @@ In December 2017, during the height of crypto-mania, the average Bitcoin transac
 
 ## The Storage Dilemma: Blockchain Obesity
 
-Here's a fun fact: as of 2021, the Bitcoin blockchain was over 320 GB in size [7]. That's bigger than the hard drive on my first five computers combined. And it's only getting bigger.
+Here's a fun fact that'll make your hard drive weep: as of September 2024, the Bitcoin blockchain has ballooned to a whopping 553 GB in size [7]. That's larger than the entire Library of Congress's digital collections circa 2022. 
+
+At this rate, we'll soon need a dedicated data center just to store pictures of digital coins. Talk about your ultimate blockchain dad bod – it's all bloat and no speed!
 
 This ever-growing chain poses two significant problems:
 
@@ -90,6 +98,7 @@ This ever-growing chain poses two significant problems:
 Now, I know what you're thinking: "Surely, O wise and moderately attractive goddess, the brilliant minds in the Bitcoin community have come up with solutions!" Well, they've certainly tried. Let's look at some of these attempts and why they're about as effective as using a band-aid to fix the Titanic.
 
 ### SegWit: The Band-Aid Approach
+
 Segregated Witness, or SegWit, was implemented in 2017 as a soft fork to Bitcoin. It aimed to increase the block capacity by separating (or segregating) the digital signature (witness) from the transaction data [8].
 
 While SegWit did provide some relief, it's a bit like dealing with a flooding house by moving the furniture to the second floor. It doesn't solve the underlying issue; it just buys a little time.
@@ -133,15 +142,15 @@ So, to all you mortals out there dabbling in crypto, remember: question everythi
 
 **References**
 
-- [1] Nakamoto, S. (2008). Bitcoin: A Peer-to-Peer Electronic Cash System.
-- [2] Buterin, V. (2021). Why sharding is great: demystifying the technical properties.
-- [3] Bitcoin Wiki. (2021). Block size limit controversy.
-- [4] Visa. (2021). Visa Acceptance for Retailers.
-- [5] Cambridge Bitcoin Electricity Consumption Index. (2021).
-- [6] BitInfoCharts. (2021). Bitcoin Average Transaction Fee historical chart.
-- [7] Blockchain.com. (2021). Bitcoin Blockchain Size.
-- [8] Bitcoin Core. (2017). Segregated Witness Benefits.
-- [9] Lightning Network. (2021). Lightning Network Specifications.
-- [10] Croman, K., et al. (2016). On Scaling Decentralized Blockchains.
-- [11] Popov, S. (2018). The Tangle. Version 1.4.3.
-- [12] IOTA Foundation. (2021). What is IOTA?
+1. [Nakamoto, S. (2008). Bitcoin: A Peer-to-Peer Electronic Cash System.](https://bitcoin.org/bitcoin.pdf)
+2. [Buterin, V. (2021). Why sharding is great: demystifying the technical properties.](https://vitalik.eth.limo/general/2021/04/07/sharding.html)
+3. [Bitcoin Wiki. (2024). Block size limit controversy.](https://en.bitcoin.it/wiki/Block_size_limit_controversy)
+4. [Visa. (2024). Visa Acceptance for Retailers.](https://usa.visa.com/run-your-business/small-business-tools/retail.html)
+5. [Cambridge Bitcoin Electricity Consumption Index. (2024).](https://ccaf.io/cbnsi/cbeci/)
+6. [BitInfoCharts. (2024). Bitcoin Average Transaction Fee historical chart.](https://bitinfocharts.com/comparison/bitcoin-transactionfees.html)
+7. [Blockchain.com. (2024). Bitcoin Blockchain Size.](https://www.blockchain.com/charts/blocks-size)
+8. [Bitcoin Core. (2024). Segregated Witness Benefits.](https://bitcoincore.org/en/2016/01/26/segwit-benefits/)
+9. [Lightning Network. (2024). Lightning Network Specifications.](https://github.com/lightning/bolts)
+10. [Croman, K., et al. (2016). On Scaling Decentralized Blockchains.](https://www.initc3.org/files/Scaling2016.pdf)
+11. [Popov, S. (2018). The Tangle. Version 1.4.3.](https://assets.ctfassets.net/r1dr6vzfxhev/2t4uxvsIqk0EUau6g2sw0g/45eae33637ca92f85dd9f4a3a218e1ec/iota1_4_3.pdf)
+12. [IOTA Foundation. (2024). What is IOTA?](https://www.iota.org/get-started/what-is-iota)

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Awesome Hugo blog</title>
-    <link>http://localhost:1313/posts/</link>
-    <description>Recent content in Posts on Awesome Hugo blog</description>
+    <title>Posts on Juno Moneta</title>
+    <link>http://localhost:1313/blog/posts/</link>
+    <description>Recent content in Posts on Juno Moneta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 07 Sep 2024 01:11:10 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Sep 2024 01:11:10 +0000</lastBuildDate><atom:link href="http://localhost:1313/blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Bitcoin Blockchain: A Digital Labyrinth of Limitations</title>
-      <link>http://localhost:1313/posts/blockchains/</link>
+      <link>http://localhost:1313/blog/posts/blockchains/</link>
       <pubDate>Sat, 07 Sep 2024 01:11:10 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/blockchains/</guid>
+      <guid>http://localhost:1313/blog/posts/blockchains/</guid>
       
       <description>The Promise and the Pitfall Ah, Bitcoin. The golden child of the crypto world, the supposed savior of our financial future, the digital messiah that would liberate us from the shackles of centralized banking.
 But here&amp;rsquo;s a divine revelation for you: Bitcoin, and its underlying blockchain technology, might just be the most overhyped, underperforming innovation since the Segway.
