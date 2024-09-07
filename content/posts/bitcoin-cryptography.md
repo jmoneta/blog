@@ -1,5 +1,5 @@
 +++
-title = 'The Divine Comedy of Math Nerds and the Birth of Bitcoin'
+title = 'Birth of Bitcoin: A Divine Comedy of Math Nerds and Cypherpunks'
 date = 2024-09-07T13:05:59+00:00
 draft = false
 toc = true
