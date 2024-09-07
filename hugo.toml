@@ -125,4 +125,4 @@ url = "https://github.com/junomoneta61"
 
 [[params.socialIcons]]
 name = "Rss"
-url = "/index.xml"
+url = "/blog/index.xml"
