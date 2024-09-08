@@ -6,7 +6,7 @@ toc = true
 tocOpen = false
 +++
 
-![Image alt](/images/euro.jpg)
+![Image Euro banknote](static/images/euro.jpg)
 
 Ah, fiat currency! 
 
