@@ -1,12 +1,10 @@
 +++
 title = 'The Illusion of Fiat Currency Stability, or the Hidden Inflation Tax'
 date = 2024-09-08T16:34:42+00:00
-draft = false
+draft = true
 toc = true
 tocOpen = false
 +++
-
-![Image Euro banknote](static/images/euro.jpg)
 
 Ah, fiat currency! 
 
