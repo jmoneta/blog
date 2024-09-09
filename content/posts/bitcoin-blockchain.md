@@ -4,7 +4,7 @@ author = 'Juno Moneta'
 date = 2024-09-06T01:11:10+00:00
 draft = false
 toc = true
-tocOpen = true
+tocOpen = false
 +++
 
 ## The Promise and the Pitfall
