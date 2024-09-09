@@ -22,7 +22,7 @@ theme = "hugo-blog-awesome"
     #extended = true
     #min = "0.87.0"
   #[[module.imports]]
-    #path = "github.com/junomoneta61/images"
+    #path = "github.com/jmoneta/images"
     #disable = false
 
 [services]
@@ -125,7 +125,7 @@ url = "/blog"
 
 [[params.socialIcons]]
 name = "github"
-url = "https://github.com/junomoneta61"
+url = "https://github.com/jmoneta"
 
 [[params.socialIcons]]
 name = "Rss"
